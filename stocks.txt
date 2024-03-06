@@ -1,0 +1,3 @@
+Stock Name   stock count   CP of Single unit   Tax 
+goodday      20.000000     10.000000           5.00
+milk         10.000000     25.000000           5.00
