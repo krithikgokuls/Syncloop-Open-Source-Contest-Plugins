@@ -1,0 +1,5 @@
+StockName     stockcount     singleprice        tax          total
+milk          2.000000       25.000000       5.000000     52.500000
+                                                    THETOTAL:52.500000
+goodday       5.000000       10.000000       5.000000     52.500000
+                                                    THETOTAL:52.500000
