@@ -1,0 +1,4 @@
+ CashierName     Password 
+|-----------     --------|
+|Gokul           123     |
+|Rakhul          456     |
